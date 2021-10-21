@@ -13,13 +13,14 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="left" alt="Img_Destaque" height="350" width="380" src="https://blog.dankicode.com/wp-content/uploads/2018/08/ferramentas-do-desenvolvedor-full-stack-380x249.png">
+  <img align="left" alt="Img_Destaque" height="350" width="380" src="https://www.rotamaxima.com.br/wp-content/uploads/2018/11/principal.png">
   
    🎨 Front-End:
   <div style="display: inline_block"><br>
     <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div><br>
   🔧 Back-End:
   <div style="display: inline_block"><br>
